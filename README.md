@@ -25,7 +25,7 @@
   <a href="https://steamcommunity.com/profiles/76561198766891603/"><img src="https://allwebs.ru/images/2026/01/15/5e66be3bad537f0162f671d99a3269ac.th.png" width="35"></a>
 </p>
 
-<p
- <img src="https://i.postimg.cc/MHK5zwGG/Picsart-26-05-06-22-15-05-390.png" width="35"></a>
-</p>
+<div>
+<img src="https://i.postimg.cc/MHK5zwGG/Picsart-26-05-06-22-15-05-390.png" width="35"></a>
+</div>
 
