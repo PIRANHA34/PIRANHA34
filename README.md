@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-<a <a href="https://ibb.co/27TzHH0t"><img src="https://i.ibb.co/PZd200sh/Picsart-26-05-06-17-01-48-964.png" width="30" height="30" alt="Picsart-26-05-06-17-01-48-964" border="0"></a>
+<a <a href="https://ibb.co/27TzHH0t"><img src="https://i.ibb.co/PZd200sh/Picsart-26-05-06-17-01-48-964.png" width="100" height="100" alt="Picsart-26-05-06-17-01-48-964" border="0"></a>
 </div>
 
 <div align="center"> 
