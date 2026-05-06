@@ -31,19 +31,16 @@
 
 ---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-  <tr>    
-    <td align="left" style="border: none;">
-      <img src="https://i.postimg.cc/MHK5zwGG/Picsart-26-05-06-22-15-05-390.png" width="30">
-    </td>    
-    <td align="center" style="border: none;">
-      <a href="http://t.me/anonaskbot?start=ua4aooayj2pq6uz"><img src="https://allwebs.ru/images/2026/01/15/97f840f503d58fcd8a95abdd77e3ff2b.th.png" width="35"></a>
-      <span>&nbsp;&nbsp;</span>
-      <a href="https://steamcommunity.com/profiles/76561198766891603/"><img src="https://allwebs.ru/images/2026/01/15/5e66be3bad537f0162f671d99a3269ac.th.png" width="35"></a>
-    </td>    
-    <td align="right" style="border: none;">
-      <img src="https://i.postimg.cc/wBjhrpwj/Picsart-26-05-06-22-13-25-137.png" width="30">
-    </td>
-  </tr>
-</table> 
+<p align="center">
+  <img src="https://i.postimg.cc/MHK5zwGG/Picsart-26-05-06-22-15-05-390.png" width="30" align="left">
+  <img src="https://i.postimg.cc/wBjhrpwj/Picsart-26-05-06-22-13-25-137.png" width="30" align="right">
+  <a href="http://t.me/anonaskbot?start=ua4aooayj2pq6uz">
+    <img src="https://allwebs.ru/images/2026/01/15/97f840f503d58fcd8a95abdd77e3ff2b.th.png" width="35">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://steamcommunity.com/profiles/76561198766891603/">
+    <img src="https://allwebs.ru/images/2026/01/15/5e66be3bad537f0162f671d99a3269ac.th.png" width="35">
+  </a>
+</p>
+<br/> 
 
