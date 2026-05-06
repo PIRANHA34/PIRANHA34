@@ -10,9 +10,10 @@
 
 <p align="center">
   <a href="https://t.me/aeseva">
-    <img src="https://i.ibb.co/xtqMN2yZ/6-20260506190959.png" width="50"></a>&nbsp;
+    <img src="https://i.ibb.co/xtqMN2yZ/6-20260506190959.png" width="90">
+  </a>
   <a href="https://teletype.in/@cotmoe/JGda4dc-ULw">
-    <img src="https://i.ibb.co/M5s02gM2/Picsart-26-05-06-18-26-42-508.png" width="50">
+    <img src="https://i.ibb.co/M5s02gM2/Picsart-26-05-06-18-26-42-508.png" width="90">
   </a>
 </p>
 
