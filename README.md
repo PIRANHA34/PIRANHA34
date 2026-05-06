@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://teletype.in/@cotmoe/JGda4dc-ULw">
-<img src="https://i.postimg.cc/8PqwWhYs/Bez-nazvania6-20260506193725.png" width="70">&nbsp;<a href="https://t.me/aeseva"><img src="https://i.postimg.cc/QCz92J70/Bez-nazvania6-20260506190959.png" width="70">
+<img src="https://i.postimg.cc/8PqwWhYs/Bez-nazvania6-20260506193725.png" width="70"><a href="https://t.me/aeseva"><img src="https://i.postimg.cc/QCz92J70/Bez-nazvania6-20260506190959.png" width="70">
   </a>
 </p>
 
