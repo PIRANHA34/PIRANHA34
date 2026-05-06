@@ -8,11 +8,13 @@
 <a <a href="https://ibb.co/27TzHH0t"><img src="https://i.ibb.co/PZd200sh/Picsart-26-05-06-17-01-48-964.png" width="300" height="270" alt="Picsart-26-05-06-17-01-48-964" border="0"></a>
 </div>
 
-<div align="center"> 
-  
-  [<a href="https://ibb.co/3mkzM0b3"><img src="https://i.ibb.co/gZ6VPD82/Picsart-26-05-06-18-17-26-635.png" width="45" height="20" alt="Picsart-26-05-06-18-17-26-635" border="0"></a>](https://t.me/aeseva)
-[<a href="https://ibb.co/QjfwbJrb"><img src="https://i.ibb.co/M5s02gM2/Picsart-26-05-06-18-26-42-508.png" width="45" height="20" alt="Picsart-26-05-06-18-26-42-508" border="0"></a>](https://teletype.in/@cotmoe/JGda4dc-ULw)
-
+<div align="center">
+  <a href="https://t.me/aeseva">
+    <img src="https://i.ibb.co/gZ6VPD82/Picsart-26-05-06-18-17-26-635.png" width="45" height="20" alt="Telegram" border="0">
+  </a>
+  <a href="https://teletype.in/@cotmoe/JGda4dc-ULw">
+    <img src="https://i.ibb.co/M5s02gM2/Picsart-26-05-06-18-26-42-508.png" width="45" height="20" alt="Teletype" border="0">
+  </a>
 </div>
 
 ---
