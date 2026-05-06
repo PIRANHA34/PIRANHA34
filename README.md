@@ -10,10 +10,8 @@
 
 
 <p align="center">
-  <a href="https://teletype.in/@cotmoe/JGda4dc-ULw">
-    <img src="https://i.ibb.co/M5s02gM2/Picsart-26-05-06-18-26-42-508.png" width="70">
-  </a><a href="https://t.me/aeseva">
-    <img src="https://i.postimg.cc/QCz92J70/Bez-nazvania6-20260506190959.png" width="70">
+  <a href="https://teletype.in/@cotmoe/JGda4dc-ULw"><img src="https://i.ibb.co/M5s02gM2/Picsart-26-05-06-18-26-42-508.png" width="70">
+  </a><a href="https://t.me/aeseva"><img src="https://i.postimg.cc/QCz92J70/Bez-nazvania6-20260506190959.png" width="70">
   </a>
 </p>
 
