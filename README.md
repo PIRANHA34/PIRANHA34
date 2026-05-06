@@ -8,11 +8,16 @@
 <a <a href="https://ibb.co/27TzHH0t"><img src="https://i.ibb.co/PZd200sh/Picsart-26-05-06-17-01-48-964.png" width="300" height="270" alt="Picsart-26-05-06-17-01-48-964" border="0"></a>
 </div>
 
+
+<p align="center">
+  <a href="https://teletype.in/@cotmoe/JGda4dc-ULw">
+    <img src="https://i.ibb.co/M5s02gM2/Picsart-26-05-06-18-26-42-508.png" width="200">
+  </a>
+</p>
+
 <p align="center">
   <a href="https://t.me/aeseva">
-    <img src="https://i.ibb.co/xtqMN2yZ/6-20260506190959.png" width="90">
-  </a><a href="https://teletype.in/@cotmoe/JGda4dc-ULw">
-    <img src="https://i.ibb.co/M5s02gM2/Picsart-26-05-06-18-26-42-508.png" width="90">
+    <img src="https://i.postimg.cc/QCz92J70/Bez-nazvania6-20260506190959.png" width="200">
   </a>
 </p>
 
