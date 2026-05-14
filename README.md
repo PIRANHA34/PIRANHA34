@@ -19,5 +19,7 @@
   <a href="http://t.me/anonaskbot?start=ua4aooayj2pq6uz"><img src="https://allwebs.ru/images/2026/01/15/97f840f503d58fcd8a95abdd77e3ff2b.th.png" width="35"></a>
   <span></span>
   <a href="https://steamcommunity.com/profiles/76561198766891603/"><img src="https://allwebs.ru/images/2026/01/15/5e66be3bad537f0162f671d99a3269ac.th.png" width="35"></a>
+  <span></span>
+  <a href="https://open.spotify.com/user/31e6tccsifzhu6dkib4mqbp7kvgq?si=GDQAqKv4SueWYEtyjoY55g"><img src="https://i.postimg.cc/qqxMfdx0/Picsart-26-05-14-21-41-32-896.png" width="35"></a>
 </p
 
