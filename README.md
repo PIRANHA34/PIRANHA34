@@ -10,7 +10,6 @@
 
 <p align="center">
 [teletype](https://teletype.in/@boumochi/lgBMPguc2RK)
-  <span></span>
 [public tgc](https://t.me/aeseva)
 </p>
 
