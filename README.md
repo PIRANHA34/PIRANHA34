@@ -9,7 +9,7 @@
 
 
 <p align="center">
-    <a href="https://teletype.in/@boumochi/1gBMPguc2RK">teletype</a><br>
+    <a href="https://teletype.in/@boumochi/1gBMPguc2RK">teletype</a>&nbsp;
     <a href="https://t.me/aeseva">public tgc</a>
 </p>
 
