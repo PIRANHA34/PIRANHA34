@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://teletype.in/@cotmoe/JGda4dc-ULw">
+  <a href="https://teletype.in/@boumochi/lgBMPguc2RK">
 <img src="https://i.postimg.cc/1tnK7B4J/Picsart-26-05-06-21-16-45-012.png" width="70"></a>
   <span></span>
   <a href="https://t.me/aeseva"><img src="https://i.postimg.cc/FsRHM6hk/Picsart-26-05-06-21-21-19-678.png" width="70">
