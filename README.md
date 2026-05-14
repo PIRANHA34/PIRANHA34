@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://teletype.in/@boumochi/1gBMPguc2RK">больше обо мне</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/aeseva">public tgc</a>
+    <a href="https://t.me/aeseva">тгк/селфпост</a>
 </p>
 
 ---
