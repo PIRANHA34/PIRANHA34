@@ -9,11 +9,9 @@
 
 
 <p align="center">
-  <a href="https://teletype.in/@boumochi/lgBMPguc2RK">
-<img src="https://i.postimg.cc/1tnK7B4J/Picsart-26-05-06-21-16-45-012.png" width="70"></a>
+[teletype](https://teletype.in/@boumochi/lgBMPguc2RK)
   <span></span>
-  <a href="https://t.me/aeseva"><img src="https://i.postimg.cc/FsRHM6hk/Picsart-26-05-06-21-21-19-678.png" width="70">
-  </a>
+[public tgc](https://t.me/aeseva)
 </p>
 
 ---
