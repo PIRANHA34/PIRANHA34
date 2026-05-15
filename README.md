@@ -11,3 +11,7 @@
     <a href="http://t.me/anonaskbot?start=ua4aooayj2pq6uz">anon</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://open.spotify.com/user/31e6tccsifzhu6dkib4mqbp7kvgq?si=GDQAqKv4SueWYEtyjoY55g">spotify</a>
 </p>
+
+<div align="center">
+  <img src='https://i.postimg.cc/bYtyrHyk/Picsart-26-05-16-00-30-03-349.png"400" border='0' alt='71f00dd8858a01e0a318bf4067cfae9b'></a>
+</div>
