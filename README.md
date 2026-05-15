@@ -7,11 +7,11 @@
 </div>
 <p align="right">cr @sunnnliwx in tg 
 <p align="center">
-    <a href="https://teletype.in/@boumochi/lgBMPguc2RK">больше обо мне</a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://t.me/aeseva">тгк/селфпост</a>
-    <a href="http://t.me/anonaskbot?start=ua4aooayj2pq6uz">анон</a>
-    <a href="https://steamcommunity.com/profiles/76561198766891603/">стим</a>
-    <a href="https://open.spotify.com/user/31e6tccsifzhu6dkib4mqbp7kvgq?si=GDQAqKv4SueWYEtyjoY55g">спотифай</a>
+    <a href="https://teletype.in/@boumochi/lgBMPguc2RK">.more</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/aeseva">tgc/selfpost</a>
+    <a href="http://t.me/anonaskbot?start=ua4aooayj2pq6uz">anon</a>
+    <a href="https://steamcommunity.com/profiles/76561198766891603/">steam</a>
+    <a href="https://open.spotify.com/user/31e6tccsifzhu6dkib4mqbp7kvgq?si=GDQAqKv4SueWYEtyjoY55g">spotify</a>
 </p>
 
 ---
