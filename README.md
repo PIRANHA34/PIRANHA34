@@ -7,7 +7,6 @@
 </div>
 <p align="right">cr @sunnnliwx in tg
 
-
 <p align="center">
     <a href="https://teletype.in/@boumochi/lgBMPguc2RK">больше обо мне</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/aeseva">тгк/селфпост</a>
