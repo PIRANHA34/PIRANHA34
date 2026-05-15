@@ -5,8 +5,7 @@
 <div align="center">
   <img src='https://i.postimg.cc/RCj9K3sq/IMG-20260515-234957-122.jpg"400" border='0' alt='71f00dd8858a01e0a318bf4067cfae9b'></a>
 </div>
-<p align="right">cr @sunnnliwx in tg
-<p align="center">
+<p align="right">cr @sunnnliwx in tg <p align="center">
     <a href="https://teletype.in/@boumochi/lgBMPguc2RK">больше обо мне</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/aeseva">тгк/селфпост</a>
 </p>
