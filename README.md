@@ -12,7 +12,7 @@
 <p align="center">
 
 <div align="center">𓍯
-    <a href="https://t.me/aeseva">tgc/selfpost</a>
+    <a href="https://t.me/aeseva">selfpost</a>
 <p align="center">
 
 <div align="center">𓍢 ִ ໋
