@@ -25,7 +25,7 @@
 <p align="center">
 
 <div align="center">&nbsp;&nbsp;▶︎
-    <a href="t.me/homelanderisinnocent">write to me</a>
+    <a href="t.me/homelanderisinnocent">написать мне</a>
 </p>
 <p align="center">
 
