@@ -6,8 +6,6 @@
   <img src='https://i.postimg.cc/T1vkgq0y/017d65e8a2b9777a6f06320f90b8891d.gif' width="400" border='0' alt='71f00dd8858a01e0a318bf4067cfae9b'></a>
 </div>
 
----
-
 <div align="center">
     <a href="https://teletype.in/@boumochi/lgBMPguc2RK">𝗺𝗼𝗿𝗲</a>
 <p align="center">
