@@ -24,7 +24,7 @@
 <p align="center">
 
 <div align="center">𓍼
-    <a href="t.me/homelanderisinnocent">написать мне</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/homelanderisinnocent">написать мне</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
 
