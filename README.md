@@ -7,8 +7,8 @@
 </div>
 <p align="center">
 
-<div align="center">
-    <a href="https://teletype.in/@boumochi/lgBMPguc2RK">𓍼more</a>
+<div align="center">𓍼
+    <a href="https://teletype.in/@boumochi/lgBMPguc2RK">more</a>
 <p align="center">
 
 <div align="center">
