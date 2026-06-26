@@ -8,7 +8,7 @@
 <p align="center">
 
 <div align="center">𓍼
-    <a href="https://teletype.in/@boumochi/lgBMPguc2RK">**more**</a>
+    <a href="https://teletype.in/@boumochi/lgBMPguc2RK">more</a>
 <p align="center">
 
 <div align="center">&nbsp;&nbsp;
@@ -24,7 +24,7 @@
 </p>
 <p align="center">
 
-<div align="center">&nbsp;&nbsp;
+<div align="center">▶︎
     <a href="https://open.spotify.com/user/31e6tccsifzhu6dkib4mqbp7kvgq?si=GDQAqKv4SueWYEtyjoY55g">write to me</a>
 </p>
 <p align="center">
