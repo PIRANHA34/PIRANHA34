@@ -11,7 +11,10 @@
     <a href="https://teletype.in/@boumochi/lgBMPguc2RK">more</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
 
+<div align="center">
     <a href="https://t.me/aeseva">tgc/selfpost</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+
     <a href="https://www.roblox.com/share?code=039ea8456b26d0498294227847f4a2f8&type=Profile&source=ProfileShare&stamp=1781482741490">roblox</a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://open.spotify.com/user/31e6tccsifzhu6dkib4mqbp7kvgq?si=GDQAqKv4SueWYEtyjoY55g">spotify</a>
 </p>
