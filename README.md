@@ -8,6 +8,7 @@
 
 <div align="center">
     <a href="https://teletype.in/@boumochi/lgBMPguc2RK">𝗺𝗼𝗿𝗲</a>
+<p align="center">
 
 <div align="center">
     <a href="https://www.roblox.com/share?code=039ea8456b26d0498294227847f4a2f8&type=Profile&source=ProfileShare&stamp=1781482741490">𝗋𝗈𝖻𝗅𝗈𝗑</a>
