@@ -15,11 +15,6 @@
 <p align="center">
 
 <div align="center">
-    <a href="https://open.spotify.com/user/31e6tccsifzhu6dkib4mqbp7kvgq?si=GDQAqKv4SueWYEtyjoY55g">𝗌𝗉𝗈𝗍𝗂𝖿𝗒</a>
-</p>
-<p align="center">
-
-<div align="center">
     <a href="https://t.me/aeseva">𝗌𝖾𝗅𝖿𝗉𝗈𝗌𝗍</a>
 <p align="center">
 
