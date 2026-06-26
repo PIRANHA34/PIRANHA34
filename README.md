@@ -11,7 +11,7 @@
     <a href="https://teletype.in/@boumochi/lgBMPguc2RK">more</a>
 <p align="center">
 
-<div align="center">𓍯
+<div align="center">𓄹
     <a href="https://t.me/aeseva">selfpost</a>
 <p align="center">
 
