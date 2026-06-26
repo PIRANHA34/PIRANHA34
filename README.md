@@ -20,7 +20,12 @@
 <p align="center">
 
 <div align="center">&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/31e6tccsifzhu6dkib4mqbp7kvgq?si=GDQAqKv4SueWYEtyjoY55g">spotify</a>
+    <a href="t.me/homelanderisinnocent">spotify</a>
+</p>
+<p align="center">
+
+<div align="center">&nbsp;&nbsp;
+    <a href="https://open.spotify.com/user/31e6tccsifzhu6dkib4mqbp7kvgq?si=GDQAqKv4SueWYEtyjoY55g">write to me</a>
 </p>
 <p align="center">
 
