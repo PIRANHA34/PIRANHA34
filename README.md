@@ -8,7 +8,7 @@
 <p align="center">
 
 <div align="center">
-    <a href="https://teletype.in/@boumochi/lgBMPguc2RK">more</a>
+    <a href="https://teletype.in/@boumochi/lgBMPguc2RK">𝗆𝗈𝗋𝖾</a>
 <p align="center">
 
 <div align="center">
