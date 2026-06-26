@@ -24,8 +24,8 @@
     <a href="https://t.me/aeseva">𝗌𝖾𝗅𝖿𝗉𝗈𝗌𝗍</a>
 <p align="center">
 
-<div align="center">𓋜
-    <a href="t.me/homelanderisinnocent">написать мне</a>
+<div align="center">𓍼
+    <a href="t.me/homelanderisinnocent">написать мне</a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
 
