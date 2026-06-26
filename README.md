@@ -19,7 +19,7 @@
     <a href="https://www.roblox.com/share?code=039ea8456b26d0498294227847f4a2f8&type=Profile&source=ProfileShare&stamp=1781482741490">roblox</a>
 <p align="center">
 
-<div align="center">
+<div align="center">𓏲 
     <a href="https://open.spotify.com/user/31e6tccsifzhu6dkib4mqbp7kvgq?si=GDQAqKv4SueWYEtyjoY55g">spotify</a>
 </p>
 <p align="center">
