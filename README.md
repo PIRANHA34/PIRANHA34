@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">O1. 
-    <a href="https://teletype.in/@boumochi/lgBMPguc2RK">𝗺𝗼𝗿𝗲</a>&nbsp;&nbsp;&nbsp;&nbsp
+    <a href="https://teletype.in/@boumochi/lgBMPguc2RK">𝗺𝗼𝗿𝗲</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
 
 <div align="center">O2. 
