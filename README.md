@@ -19,7 +19,7 @@
 <p align="center">
 
 <div align="center">O4. 
-    <a href="https://t.me/homelanderisinnocent">textme</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/homelanderisinnocent">textme</a>&nbsp;&nbsp;
 </p>
 <p align="center">
 
