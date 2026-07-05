@@ -15,7 +15,7 @@
 <p align="center">
 
 <div align="center">O3. 
-    <a href="https://t.me/aeseva">𝗌𝖾𝗅𝖿𝗉𝗈𝗌𝗍</a>&nbsp;&nbsp;
+    <a href="https://t.me/aeseva">𝗌𝖾𝗅𝖿𝗉𝗈𝗌𝗍</a>&nbsp;
 <p align="center">
 
 <div align="center">O4. 
