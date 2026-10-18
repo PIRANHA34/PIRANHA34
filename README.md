@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://ibb.co/5Wrn4NWf" width="400" alt="6775-banner">
+  <img src="https://i.postimg.cc/0yZv3rWT/6775.gif" width="400" alt="6775-banner">
 </div>
 
 <div align="center">
