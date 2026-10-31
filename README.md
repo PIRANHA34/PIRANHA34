@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.postimg.cc/rFqyj694/Picsart-26-11-01-01-34-07-693.png"400" alt="6775-banner">
+  <img src="https://i.postimg.cc/rFqyj694/Picsart-26-11-01-01-34-07-693.png"300" alt="6775-banner">
 </div>
 
 <div align="center">
